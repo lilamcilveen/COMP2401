@@ -3,7 +3,7 @@ Purpose of software:
 	based around prime numbers, and each program has it's own functionality.
 
 Developer:
-	Iqra McIlveen, 101038709
+	Iqra McIlveen
 
 Development Date:
 	April 11, 2018
