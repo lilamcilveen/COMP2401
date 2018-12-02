@@ -1,5 +1,5 @@
 Purpose: The purpose of this software is to  manipulate records of patients and employees from a hospital.
-Developer & Development Date: Iqra McIlveen - 101038709 - March 6, 2018
+Developer & Development Date: Iqra McIlveen - March 6, 2018
 
 Software organization: 
 	There are 4 .c files consisting of:
