@@ -1,5 +1,6 @@
 Purpose of software:
-	Reads unsigned numbers from binary files, and determines which numbers are prime. This assignment has different parts based around prime numbers, and each 		program has it's own functionality.
+	Reads unsigned numbers from binary files, and determines which numbers are prime. This assignment has different parts
+	based around prime numbers, and each program has it's own functionality.
 
 Developer:
 	Iqra McIlveen, 101038709
